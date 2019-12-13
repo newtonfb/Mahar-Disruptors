@@ -155,7 +155,7 @@ p {
 /* Showcase */
 
 #showcase {
-  background: #333 url(/img/esports_showcase.jfif) no-repeat center center/cover;
+  background: #333 url(https://newtonfb.github.io/Mahar-Disruptors/img/esports_showcase.jfif) no-repeat center center/cover;
   height: 100vh;
   color: #fff;
 }
@@ -208,13 +208,13 @@ p {
 }
 
 .tuesday {
-  background: url(/img/league-of-legends.jpg) no-repeat center center/cover;
+  background: url(https://newtonfb.github.io/Mahar-Disruptors/img/league-of-legends.jpg) no-repeat center center/cover;
   opacity: 1.5;
   
 }
 
 .thursday {
-  background: url(/img/rocket-league.jpg) no-repeat center center/cover;
+  background: url(https://newtonfb.github.io/Mahar-Disruptors/img/rocket-league.jpg) no-repeat center center/cover;
   opacity: 1.5;
   z-index: 1;
 }
