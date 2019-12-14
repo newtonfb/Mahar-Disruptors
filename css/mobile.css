@@ -27,23 +27,27 @@
     text-align: center;
   }
 
-  #navbar ul {
-    padding: 0.2rem;
-    
+  #navbar ul li a {
+    padding: 0.4rem;
   }
 
   #showcase .showcase-content {
-    top: 100px;
+    top: 90px;
   }
 
   .games {
     display: flex;
     flex-direction: column;
-    padding: 2rem;
+    padding: 0 2rem;
     margin-bottom: 0.5rem;
+    text-align: center;
   }
-   .monday .wednesday .friday {
-    padding: .5rem;
+  .games div {
+    margin: 0.1rem;
+  }
+
+  .monday .wednesday .friday {
+    padding: 0.5rem;
     margin: 1rem;
   }
 
@@ -54,6 +58,20 @@
     display: none;
   }
 
+  #news {
+    display: block;
+  }
+  /* .video-responsive{
+    display: block;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }*/
+
+  .video-responsive iframe {
+    width: 100%;
+  }
   #clients .items img {
     width: 80%;
   }
